@@ -5,6 +5,8 @@ It answers simple question related to Corona Virus.
 It workd by finding cosine similarity between question and all sentences in context provided.
 The sentence with maximum cosine similarity is chosen as answer.
 
+![Alt text](http://full/path/to/img.jpg "Optional title")
+
 
 
 
